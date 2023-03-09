@@ -89,7 +89,7 @@ color: var(--accent-color) !important;
 /* top banner */
 .top-banner {
   background-color: #38b3dc;
-  background-image: url(./assets/asset\ 32.png);
+  background-image: url(project-1/asset\ 32.png);
   background-size: 300px; 
 
 }
@@ -203,7 +203,7 @@ padding: 30px var(--padding-inline-selection) 0;
     position: relative;
     min-height:300px;
     background: black;
-    background:linear-gradient(rgb(0, 0, 0, 0.1),rgb(0, 0, 0, 0.8)),url(assets/asset\ 35.jpeg);
+    background:linear-gradient(rgb(0, 0, 0, 0.1),rgb(0, 0, 0, 0.8)),url(project-1/asset\ 35.jpeg);
    transition: 0.2s ease-out;
   }
   .examples-card:hover{
